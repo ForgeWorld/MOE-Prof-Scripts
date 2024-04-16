@@ -1,6 +1,13 @@
 import pyautogui
 import time
 
+'''
+This is a simple script to level your riding
+This script will press and hold the 'S' and 'A' keys
+Make sure you and your horse are fully fed
+You can run this overnight without any issues, it will run you backwards in a circle until you stop it
+'''
+
 time.sleep(4)
 try:
     print("Pressing and holding 'S' and 'A' keys. Press CTRL+C to stop.")

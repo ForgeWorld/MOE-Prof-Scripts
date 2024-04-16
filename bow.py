@@ -30,13 +30,17 @@ In theory this script can run forever until one of the following
     4. You hit your current bow skill cap
 
 Final notes
-Time to fire a bow = roughly 3 seconds
-5x stone arrows = 1 branch, 1 rubble, 1 rope
-To level bow afk for 10 hours takes about 12000 arrows and 2400 arrow crafts
-Because you consume stam this also slightly levels your armor, plan accordingly
-You can also start with 100 arrows in your inventory and then queue up the arrows to craft while you are afk
-The script adds 30 seconds to your bow break time in order to account for lag and other factors, you will likely be punching air for about a minute but this is fine
-To quit the script move your mouse to the top left corner of your screen
+    Time to fire a bow = roughly 3 seconds
+    5x stone arrows = 1 branch, 1 rubble, 1 rope
+    To level bow afk for 10 hours takes about 12000 arrows and 2400 arrow crafts
+    Because you consume stam this also slightly levels your armor, plan accordingly
+    You can also start with 100 arrows in your inventory and then queue up the arrows to craft while you are afk
+    The script adds 60 seconds to your bow break time in order to account for lag and other factors, you will likely be punching air for about a minute but this is fine
+    To quit the script move your mouse to the top left corner of your screen
+
+    MAKE SURE THAT YOU HAVE ENOUGH FOOD TO LAST THE ENTIRE TIME YOU PLAN TO AFK
+    WHEN THE SCRIPT FINISHES THE EATING PHASE MAKE SURE YOU ARE COMPLETELY FULL AND THERE IS NOT A FOOD DEFICIT
+
 '''
 
 TIME_TO_BREAK_BOW = 13
